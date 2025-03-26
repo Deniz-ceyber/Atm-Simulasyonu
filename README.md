@@ -1,2 +1,13 @@
-# atm_simulasyonu
-Python ile yazılmış temel bir ATM simülasyonu. Kullanıcı bakiye sorgulayabilir, para yatırabilir ve çekebilir. Kullanıcı dostu bir menü ve hata kontrolleri içerir.
+# Atm Simulasyonu
+Bu proje, Python ile yazılmış basit bir ATM Simülasyonudur. Kullanıcılar bakiye sorgulama, para yatırma ve para çekme işlemlerini gerçekleştirebilirler.
+
+Özellikler:
+
+Bakiye sorgulama
+
+Para yatırma
+
+Para çekme
+
+Kullanıcı dostu menü ve hata kontrollerine sahiptir
+
